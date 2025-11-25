@@ -14,14 +14,14 @@ I'm a Systems Analysis and Development student and I'm looking for my first oppo
 
 ### Connect with me
 <div>
-  <a href="https://www.linkedin.com/in/renan-rubio-017290222/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-  <a href="mailto:renan.rubio04@gmail.com">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
-  </a>
-  <a href="https://www.instagram.com/renan.silva.rubio/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.linkedin.com/in/renan-rubio-017290222/" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href="mailto:renan.rubio04@gmail.com">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
+  </a>
+  <a href="https://www.instagram.com/renan.silva.rubio/" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram">
   </a>
 </div>
 
