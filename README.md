@@ -20,8 +20,8 @@ I'm a Systems Analysis and Development student and I'm looking for my first oppo
   <a href="mailto:renan.rubio04@gmail.com">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
   </a>
-  <a href="https://www.instagram.com/renan.silva.rubio/" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram">
-  </a>
+ <a href="https://www.instagram.com/renan.silva.rubio/" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram">
+  </a>
 </div>
 
